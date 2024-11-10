@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3F7DAA-5AFE-4D34-9D12-A0DD2D1B05FE}|de1\\de1.csproj|e:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3F7DAA-5AFE-4D34-9D12-A0DD2D1B05FE}|de1\\de1.csproj|solutionrelative:de1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3F7DAA-5AFE-4D34-9D12-A0DD2D1B05FE}|de1\\de1.csproj|E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A3F7DAA-5AFE-4D34-9D12-A0DD2D1B05FE}|de1\\de1.csproj|solutionrelative:de1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A3F7DAA-5AFE-4D34-9D12-A0DD2D1B05FE}|de1\\de1.csproj|E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A3F7DAA-5AFE-4D34-9D12-A0DD2D1B05FE}|de1\\de1.csproj|solutionrelative:de1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "de1\\Form1.Designer.cs",
+              "ToolTip": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\Form1.Designer.cs",
+              "RelativeToolTip": "de1\\Form1.Designer.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAADwBAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:08:44.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\Form1.cs",
+              "RelativeDocumentMoniker": "de1\\Form1.cs",
+              "ToolTip": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\Form1.cs",
+              "RelativeToolTip": "de1\\Form1.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAPMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:11:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\Form1.cs",
+              "RelativeDocumentMoniker": "de1\\Form1.cs",
+              "ToolTip": "E:\\zalo\\trucquan\\ktragiuaky\\de1\\de1\\Form1.cs [Design]",
+              "RelativeToolTip": "de1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T10:05:48.836Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
